@@ -16,7 +16,7 @@
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="9%" src="https://simpleicons.org/icons/opencv.svg"></code>
-  <code><img width="9%" src="https://simpleicons.org/icons/blender.svg"></code>
+  <code><img width="9%" src="https://simpleicons.org/icons/adobepremierepro.svg"></code>
   <code><img width="9%" src="https://simpleicons.org/icons/blender.svg"></code>
 </p>
 
