@@ -1,6 +1,6 @@
 ### Hello World, I'm GuHang 
 
-| Bolg|
+| Blog|
 | :----: |
 
 |[Amon的笔记](https://www.ghlze.fun/)|
@@ -12,12 +12,12 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="9%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="9%" src="https://simpleicons.org/icons/opencv.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 </p>
 
 
