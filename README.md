@@ -1,10 +1,25 @@
 ### Hello World, I'm GuHang 
+
 | Bolg|
 | :----: |
+
 |[Amon的笔记](https://www.ghlze.fun/)|
 
 ### Languanges and Tools：
-![image](https://user-images.githubusercontent.com/92987610/219935096-c8d2d9a2-10c8-4a30-8afd-64bbb19d724e.png)
+
+<p>  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+</p>
+
 
 ### Github State
 ![Ghlze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghlze&show_icons=true&theme=tokyonight)
