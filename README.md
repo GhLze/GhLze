@@ -12,7 +12,7 @@
   -->
   <code><img width="9%" src="https://simpleicons.org/icons/c.svg"></code>
   <code><img width="9%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-
+  <code><img width="9%" src="https://simpleicons.org/icons/rust.svg"></code>
   <br />
   <code><img width="9%" src="https://simpleicons.org/icons/adobephotoshop.svg"></code>
   <code><img width="9%" src="https://simpleicons.org/icons/adobepremierepro.svg"></code>
